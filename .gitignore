@@ -5,6 +5,7 @@ config.py
 practice/
 api.ipynb
 random.ipynb
+google_nearby_search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
